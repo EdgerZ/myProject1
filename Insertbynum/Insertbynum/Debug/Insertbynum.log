@@ -1,1 +1,3 @@
-﻿  Insertbynum.vcxproj -> D:\vs2017\2013code\Projects\Insertbynum\Debug\Insertbynum.exe
+﻿  intsetByNum.c
+d:\git\insertbynum\insertbynum\intsetbynum.c(130): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Insertbynum.vcxproj -> D:\git\Insertbynum\Debug\Insertbynum.exe
